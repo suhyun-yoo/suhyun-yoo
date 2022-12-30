@@ -7,29 +7,29 @@
 
 <h3 align="center">🔭 Front Tech Stack 🔭<h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/jQuery-F29F05?style=flat&logo=jQuery&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/jQuery-F29F05?style=flat&logo=jQuery&logoColor=white"/>&nbsp
 </p>
 
 <br>
 
 <h3 align="center">👉🏻 Cooperation Tool 👈🏻<h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Confluence-215BA6?style=flat&logo=confluence&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/Confluence-215BA6?style=flat&logo=confluence&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>&nbsp
 </p>
 
 <br>
 
 <h3 align="center">🎨 Design Tool 🎨<h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-336899?style=flat&logo=adobe&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Illustrator-F27405?style=flat&logo=adobe&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Figma-5F084C?style=flat&logo=figma&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Photoshop-336899?style=flat&logo=adobe&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Illustrator-F27405?style=flat&logo=adobe&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Figma-5F084C?style=flat&logo=figma&logoColor=white"/>&nbsp
 </p>
 
 <br>
