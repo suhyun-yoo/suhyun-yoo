@@ -18,13 +18,9 @@
 
 <h3 align="center">👉🏻 Cooperation Tool 👈🏻<h3>
 <p align="center">
-  <a herf='[https://www.notion.so/suhyunyoo/SUHYUN-YOO-45404d77cdbe4dba9767ac38c29a76c8](https://www.notion.so/suhyunyoo/d9d9791f6cf047f1ba9f3c7a319407e8)'>
-    <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/></a>&nbsp
-  </a>
+  <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/></a>&nbsp
   <img src="https://img.shields.io/badge/Confluence-215BA6?style=flat&logo=confluence&logoColor=white"/></a>&nbsp
-  <a href='https://github.com/suhyun-yoo'>
-    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/></a>&nbsp
-  </a>
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/></a>&nbsp
 </p>
 
 <br>
