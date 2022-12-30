@@ -18,9 +18,10 @@
 
 <h3 align="center">👉🏻 Cooperation Tool 👈🏻<h3>
 <p align="center">
-  <a href="[[1. 연결하고싶은 사이트 url](https://www.notion.so/suhyunyoo/d9d9791f6cf047f1ba9f3c7a319407e8)]" target="_blank">
+  <a href="[https://www.notion.so/suhyunyoo/d9d9791f6cf047f1ba9f3c7a319407e8]" target="_blank">
    <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/>&nbsp
   </a>
+
   <img src="https://img.shields.io/badge/Notion-fff?style=flat&logo=notion&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Confluence-215BA6?style=flat&logo=confluence&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>&nbsp
