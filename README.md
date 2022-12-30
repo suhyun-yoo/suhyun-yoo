@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&#160;I'm&#160;Suhyun🙂&fontSize=50&animation=twinkling)
 
-<h1 align="center">🌱 I want to be a Frontend Developer / Web Publisher 🌱 </h1>
+<h1 align="center"> I want to be a Frontend Developer / Web Publisher </h1>
 <!-- <p align="center">I believe that my unbreakable belief and smooth communication<br/> will eventually make me a front-end developer.<p> -->
 
 <br>
@@ -47,7 +47,7 @@
 
 <br>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
+<h3 align="center">✨ My Git Stats ✨</h3>
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=chaaaniii&hide=contribs,prs&hide_title=true" />
