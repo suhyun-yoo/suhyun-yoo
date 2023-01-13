@@ -31,13 +31,12 @@
   <img src="https://img.shields.io/badge/Illustrator-F27405?style=flat&logo=adobe&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Figma-5F084C?style=flat&logo=figma&logoColor=white"/>&nbsp
 </p>
-
+  
 <br>
-
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhyun-yoo&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhyun-yoo&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
   </a>
 </p>
 
@@ -46,7 +45,8 @@
 <h3 align="center">✨ My Git Stats ✨</h3>
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=suhyun-yoo&hide=contribs,prs&hide_title=true" />
+      <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhyun-yoo&hide=contribs,prs&hide_title=true" /> -->
+      <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo'/>
   </a>
 </p>
   
