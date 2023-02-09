@@ -1,6 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&#160;I'm&#160;Suhyun🙂&fontSize=50&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&#160;I'm&#160;Suhyun-Yoo☺&fontSize=50&animation=twinkling) -->
 
-<h1 align="center"> I want to be a Frontend Developer / Web Publisher </h1>
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Suhyun☺&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44)
+
+
+
+<h1 align="center"> I am Frontend Developer(Web Publisher) </h1>
 <!-- <p align="center">I believe that my unbreakable belief and smooth communication<br/> will eventually make me a front-end developer.<p> -->
 
 <br>
@@ -36,7 +40,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhyun-yoo&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhyun-yoo&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=dracula" />
   </a>
 </p>
 
@@ -46,7 +50,7 @@
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
       <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhyun-yoo&hide=contribs,prs&hide_title=true" /> -->
-      <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo&hide=stars,issues'/>
+      <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo&hide=stars,issues&theme=dracula'/>
   </a>
 </p>
   
