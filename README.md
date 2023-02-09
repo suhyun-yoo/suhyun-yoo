@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&#160;I'm&#160;Suhyun-Yoo☺&fontSize=50&animation=twinkling) -->
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&text=Suhyun☺&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Suhyun☺&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44)
 
 
 
@@ -60,4 +60,5 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsuhyun-yoo&count_bg=%23747474&title_bg=%23393939&icon=git.svg&icon_color=%23FFFFFF&title=Git&edge_flat=false"/></a>
 </p> -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer) -->
+![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
