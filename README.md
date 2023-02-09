@@ -40,7 +40,7 @@
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhyun-yoo&layout=compact&show_icons=true&show_owner=ture&hide_title=true&theme=dracula" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=suhyun-yoo&layout=compact&show_icons=true&show_owner=ture&hide_title=true" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@
 <p align="center">
   <a href="https://github.com/suhyun-yoo">
       <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhyun-yoo&hide=contribs,prs&hide_title=true" /> -->
-      <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo&hide=stars,issues&theme=dracula'/>
+      <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo&hide=stars,issues'/>
   </a>
 </p>
   
