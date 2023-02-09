@@ -53,7 +53,8 @@
       <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo&hide=stars,issues&theme=swift'/>
   </a>
 </p>
-  
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=suhyun-yoo&theme=flat&column=7)](https://github.com/suhyun-yoo/) -->
 <!-- <h3 align="center">✨ My Git View Count ✨</h3>
 <p align="center">
 <a href="https://hits.seeyoufarm.com">
