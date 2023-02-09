@@ -53,9 +53,6 @@
       <img align="center" src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=suhyun-yoo&hide=stars,issues&theme=swift'/>
   </a>
 </p>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suhyun-yoo&theme=high-contrast)](https://github.com/suhyun-yoo/github-readme-activity-graph)
-
   
 <!-- <h3 align="center">✨ My Git View Count ✨</h3>
 <p align="center">
@@ -65,3 +62,6 @@
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer) -->
 ![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suhyun-yoo&theme=high-contrast)](https://github.com/suhyun-yoo/github-readme-activity-graph)
+
