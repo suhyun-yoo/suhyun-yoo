@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&#160;I'm&#160;Suhyun-Yoo☺&fontSize=50&animation=twinkling) -->
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Suhyun☺&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Suhyun☺&fontAlign=70&rotate=16&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44)
 
 
 
