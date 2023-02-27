@@ -75,4 +75,4 @@
 
 <br/><br/>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suhyun-yoo&theme=high-contrast)](https://github.com/suhyun-yoo/github-readme-activity-graph)
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=suhyun-yoo&theme=high-contrast)](https://github.com/suhyun-yoo/github-readme-activity-graph) -->
