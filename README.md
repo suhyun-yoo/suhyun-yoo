@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Confluence-215BA6?style=flat&logo=confluence&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=blue"/>&nbsp
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white"/>&nbsp
 </p>
 
 <br>
