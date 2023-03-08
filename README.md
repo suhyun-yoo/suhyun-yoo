@@ -20,7 +20,7 @@
 
  <br/>
   
-<h3 align="center">🔭 Back Tech Stack 🔭<h3>
+<h3 align="center">Back Tech Stack<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/>&nbsp
@@ -29,7 +29,7 @@
     
 <br>
 
-<h3 align="center">👉🏻 Cooperation Tool 👈🏻<h3>
+<h3 align="center">Cooperation Tool<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Confluence-215BA6?style=flat&logo=confluence&logoColor=white"/>&nbsp
@@ -39,7 +39,7 @@
 
 <br>
 
-<h3 align="center">🎨 Design Tool 🎨<h3>
+<h3 align="center">Design Tool<h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white"/>&nbsp
