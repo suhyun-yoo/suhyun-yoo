@@ -72,7 +72,7 @@
 </p> -->
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer) -->
-![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer)
+<!-- ![Footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=footer) -->
 
 <br/><br/>
   
