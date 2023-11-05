@@ -1,10 +1,10 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello!&#160;I'm&#160;Suhyun-Yoo☺&fontSize=50&animation=twinkling) -->
 
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Suhyun☺&fontAlign=70&rotate=16&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44)
+<!-- ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=250&section=header&text=Suhyun☺&fontAlign=70&rotate=16&fontAlignY=25&desc=Frontend&#160;Developer&descAlign=70.&descAlignY=44) -->
 
 
 
-<h1 align="center"> I am Frontend Developer(Web Publisher) </h1>
+<!-- <h1 align="center"> I am Frontend Developer(Web Publisher) </h1> -->
 <!-- <p align="center">I believe that my unbreakable belief and smooth communication<br/> will eventually make me a front-end developer.<p> -->
 
 <br>
@@ -41,8 +41,8 @@
 
 <h3 align="center">Design Tool<h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=AdobeIllustrator&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>&nbsp
 </p>
   
