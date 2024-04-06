@@ -20,15 +20,14 @@
 
  <br/>
   
-{/* <h3 align="center">Back Tech Stack<h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-1572B6?style=flat&logo=MySQL&logoColor=white"/>&nbsp
-</p>
-*/}
+<!-- <h3 align="center">Back Tech Stack<h3> -->
+<!-- <p align="center"> -->
+  <!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>&nbsp -->
+  <!-- <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=Express&logoColor=white"/>&nbsp -->
+  <!-- <img src="https://img.shields.io/badge/MySQL-1572B6?style=flat&logo=MySQL&logoColor=white"/>&nbsp -->
+<!-- </p> -->
     
-<br>
+<!-- <br> -->
 
 <h3 align="center">Cooperation Tool<h3>
 <p align="center">
